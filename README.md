@@ -1,0 +1,1 @@
+# Motion-Detected-frames-extraction-from-MJPEG-stream-with-simple-bash-script
