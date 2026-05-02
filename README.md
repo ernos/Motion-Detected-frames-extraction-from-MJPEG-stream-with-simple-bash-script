@@ -1,4 +1,4 @@
-# Automate Motion Detection in MJPEG Streams: A Complete Guide for Security Camera Analysis
+# Automate Motion Detection in MJPEG Streams
 
 Ever found yourself with gigabytes of security camera footage and wondered if anything actually happened? If you're working with MJPEG stream files from IP cameras or surveillance systems, manually reviewing hours of footage is tedious and time-consuming. In this guide, I'll show you how to automate motion detection using a powerful bash script that extracts only the moments that matter.
 
